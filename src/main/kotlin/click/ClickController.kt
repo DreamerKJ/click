@@ -1,0 +1,4 @@
+package click
+
+class ClickController {
+}
